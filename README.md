@@ -3,7 +3,9 @@ Le projet "Système de Location de Pharmacies" est une application web moderne d
 
 # Technologies Utilisées :
 Backend : Spring Boot est utilisé comme framework Java pour la gestion des données, la logique métier, et la création d'API RESTful.
+
 Frontend : React est utilisé pour construire une interface utilisateur interactive et réactive.
+
 Gestion des Conteneurs : Docker est utilisé pour la conteneurisation de l'application, assurant une portabilité et une facilité de déploiement.
 
 # Comment Déployer et Exécuter le Projet :
