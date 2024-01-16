@@ -1,6 +1,7 @@
 # projet :
 Le projet "Système de Location de Pharmacies" est une application web moderne développée avec Spring Boot, React et conteneurisée avec Docker. L'objectif principal de cette application est de faciliter la recherche et la location de pharmacies dans une région donnée.
 
+
 # Technologies Utilisées :
 Backend : Spring Boot est utilisé comme framework Java pour la gestion des données, la logique métier, et la création d'API RESTful.
 
@@ -22,6 +23,7 @@ Accédez à l'application depuis votre navigateur à l'adresse http://localhost:
 # Contributions et Remarques :
 
 N'hésitez pas à ouvrir des issues pour signaler des bogues, suggérer des améliorations ou poser des questions.
+
 
 
 # base de donnee :
